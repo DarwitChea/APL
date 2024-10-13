@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facebook name="Friend Content">
+    <friend id="101">
+        <name>Mr A</name>
+        <age>10</age>
+        <description>Inside class M1</description>
+        <phoneNumber service="Cellcard">01234567</phoneNumber>
+        <phoneNumber service="Smart">0104356783</phoneNumber>
+    </friend>
+    <friend id="103">
+        <name>MR b</name>
+        <age>40</age>
+        <description>From Cambodia</description>
+        <phoneNumber service="Cellcard">0184356783</phoneNumber>
+        <phoneNumber service="Smart">080134324</phoneNumber>
+    </friend>
+    <friend id="203">
+        <name>MRs C</name>
+        <age>30</age>
+        <description>N/A</description>
+        <phoneNumber service="Cellcard">019123213</phoneNumber>
+        <phoneNumber service="Smart">0783146324</phoneNumber>
+    </friend>
+</facebook>

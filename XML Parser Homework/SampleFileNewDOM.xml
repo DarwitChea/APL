@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library name="Friend List">
+    <friend id="001">
+        <name>Mr A</name>
+        <age>20</age>
+        <description>Studies in class M1</description>
+        <phoneNumber>
+            Cellcard
+            <number>012-345-678</number>
+        </phoneNumber>
+        <phoneNumber>
+            Smart
+            <number>010-122-123</number>
+        </phoneNumber>
+    </friend>
+    <friend id="002">
+        <name>Mr B</name>
+        <age>20</age>
+        <description>Studies in class M1</description>
+        <phoneNumber>
+            Cellcard
+            <number>012-345-555</number>
+        </phoneNumber>
+    </friend>
+</library>
